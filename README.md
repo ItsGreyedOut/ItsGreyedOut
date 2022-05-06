@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a IT manager learning data analytics/science to broaden my mindset. Check out my portfolio [here](https://itsgreyedout.github.io/)!
+
+📫 How to reach me: greyhardy7@gmail.com
+
+
 <!--
 **ItsGreyedOut/ItsGreyedOut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
