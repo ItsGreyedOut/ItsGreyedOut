@@ -9,9 +9,10 @@ I enjoy ⛺ camping, trout fishing, and build my 4x4, ✈ travel, and 🏋workin
 ✍ Contact me if you'd like to collaborate I'm open to new projects.
 🌇 I live in the city but am from the 🌄 mountains.
 🌨 I'm the most productive when it rains.
+I'm 💉MTF and my pronouns are he/him/his
 🍂 Fall is my favoriate season.
 🏍 I'm a retired MSF motorcycle ridercoach
-I'm 💉MTF and my pronouns are he/him/his
+
 
 <h2>🔧 Things I work with</h2>
 <p><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-3952b1?style=flat-square&logo=javascript&logoColor=white"/><img alt="Git" src="https://img.shields.io/badge/-Git-32218b?style=flat-square&logo=git&logoColor=white"/><img alt="AWS" src="https://img.shields.io/badge/-AWS-3f1a80?style=flat-square&logo=amazon-aws&logoColor=white"/><img alt="Python" src="https://img.shields.io/badge/-Python-531676?style=flat-square&logo=python&logoColor=white"/><img alt="Github" src="https://img.shields.io/badge/-Github-7d1061?style=flat-square&logo=github&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-a6094d?style=flat-square&logo=html5&logoColor=white"/><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-bb0642?style=flat-square&logo=bootstrap&logoColor=white"/><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-9f3536?style=flat-square&logo=mongodb&logoColor=white"/><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-8d4537?style=flat-square&logo=postgresql&logoColor=white"/><img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-55753c?style=flat-square&logo=Node.js&logoColor=white"/>
