@@ -8,10 +8,8 @@ I enjoy ⛺ camping, trout fishing, and build my 4x4, ✈ travel, and 🏋workin
 🐾 I have a dog named "Beau Beau"
 ✍ Contact me if you'd like to collaborate I'm open to new projects.
 🌇 I live in the city but am from the 🌄 mountains.
-🌨 I'm the most productive when it rains.
-I'm 💉MTF and my pronouns are he/him/his
 🍂 Fall is my favoriate season.
-🏍 I'm a retired MSF motorcycle ridercoach
+🏍 I'm a retired MSF motorcycle ridercoach.
 
 
 <h2>🔧 Things I work with</h2>
