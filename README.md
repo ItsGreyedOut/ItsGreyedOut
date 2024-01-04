@@ -5,7 +5,7 @@ I'm an IT people leader with a passion for data! 🔭 I’m currently working on
 ⚡ Fun fact: 
 I enjoy ⛺ camping, trout fishing, and building my 4x4, ✈ travel, and 🏋working out.
 📫 How to reach me: GreyHardy7@gmail.com
-🐾 I have a dog named "Beau Beau"
+🐾 I have a dog named "Bobo"
 ✍ Contact me if you'd like to collaborate I'm open to new projects.
 🌇 I live in the city but am from the 🌄 mountains.
 🍂 Fall is my favoriate season.
